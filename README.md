@@ -7,11 +7,11 @@ I am a front-end Developer of web. I want to work at others country, talk a lot 
 
 [Global Borderless by Paypal](https://paypal.me/ordinarycas)
 
-MetaMask Wallet:0xdA3e7efAfB0E3de410ACA788300F0d43948b88e5
+USDT(TRX-TRC20)：TAA4aRUDUYGwdGNXqoQhnQNxV9tUgtzkiA
+
+USDT(ETH-ERC20)：0x9520be8ff63665b89f64fef94acc28cfd1f2f579
 
 Bitcoin Wallet:32mVvzDaHm1WWNtfcu4xcMFphHK8DvLP1T
-
-LBRY:bDffyyVSDyxwRRXWiYXQfyAYFNth3ZnLfX
 
 ### Affiliate Link / Code
 
